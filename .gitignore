@@ -1,0 +1,7 @@
+*.pdsbak
+*.workspace
+*.eep
+*.elf
+*.bin
+*.with_bootloader.hex
+Project Backups/
